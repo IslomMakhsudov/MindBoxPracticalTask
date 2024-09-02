@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryCalculatorLib", "MindBoxPracticalTask\GeometryCalculatorLib.csproj", "{0476BB44-7A05-47E6-A5F5-B2B086196C8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryCalculatorLib.Tests", "GeometryCalculatorLib.Tests\GeometryCalculatorLib.Tests.csproj", "{59AFEE81-4180-4DB9-BC82-54DA8B1DCD49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryCalculatorLib.Tests", "GeometryCalculatorLib.Tests\GeometryCalculatorLib.Tests.csproj", "{59AFEE81-4180-4DB9-BC82-54DA8B1DCD49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryCalculatorLib", "GeometryCalculatorLib\GeometryCalculatorLib.csproj", "{10F49528-706E-4644-BD65-B232E6ED93A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0476BB44-7A05-47E6-A5F5-B2B086196C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0476BB44-7A05-47E6-A5F5-B2B086196C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0476BB44-7A05-47E6-A5F5-B2B086196C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0476BB44-7A05-47E6-A5F5-B2B086196C8B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{59AFEE81-4180-4DB9-BC82-54DA8B1DCD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{59AFEE81-4180-4DB9-BC82-54DA8B1DCD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59AFEE81-4180-4DB9-BC82-54DA8B1DCD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59AFEE81-4180-4DB9-BC82-54DA8B1DCD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F49528-706E-4644-BD65-B232E6ED93A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F49528-706E-4644-BD65-B232E6ED93A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F49528-706E-4644-BD65-B232E6ED93A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F49528-706E-4644-BD65-B232E6ED93A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

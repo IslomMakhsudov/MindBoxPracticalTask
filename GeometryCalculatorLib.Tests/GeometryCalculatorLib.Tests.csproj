@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\GeometryCalculatorLib\GeometryCalculatorLib.csproj" />
     <ProjectReference Include="..\MindBoxPracticalTask\GeometryCalculatorLib.csproj" />
   </ItemGroup>
 
